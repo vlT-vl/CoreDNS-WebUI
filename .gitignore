@@ -1,0 +1,13 @@
+.env
+.env.s2e
+.env.vlt
+backend/web/.env
+release/
+frontend/node_modules
+backend/web/dist/*
+!backend/web/dist/index.html
+dist/*
+!dist/.gitkeep
+.DS_Store
+build.sh
+dev.sh
